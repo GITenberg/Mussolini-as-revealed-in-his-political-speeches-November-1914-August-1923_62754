@@ -1,0 +1,43 @@
+_repo: Mussolini-as-revealed-in-his-political-speeches-November-1914-August-1923_62754
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Quaranta di San Severino, Bernardo, barone
+    aliases:
+    - Di San Severino, Bernardo Quaranta, barone
+    - Severino, Bernardo Quaranta di San, barone
+    - San Severino, Bernardo Quaranta di, barone
+    birthdate: 1870
+    deathdate: 1934
+    gutenberg_agent_id: '52105'
+    url: http://www.gutenberg.org/2009/agents/52105
+creator:
+  author:
+    agent_name: Mussolini, Benito
+    alias: Duce
+    birthdate: 1883
+    deathdate: 1945
+    gutenberg_agent_id: '52104'
+    url: http://www.gutenberg.org/2009/agents/52104
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Benito_Mussolini
+    - https://it.wikipedia.org/wiki/Benito_Mussolini
+description: ''
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62754'
+  lccn: '24026195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mussolini, Benito, 1883-1945'
+- !lcsh 'Partito nazionale fascista (Italy)'
+- !lcsh 'Fascism -- Italy'
+- !lcsh 'Italy -- Politics and government -- 1914-1945'
+- !lcc 'DG'
+- GITenberg
+title: Mussolini as revealed in his political speeches (November 1914-August 1923)
+url: http://www.gutenberg.org/ebooks/62754
